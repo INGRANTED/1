@@ -1,5 +1,5 @@
 {
-  "Enable": false,
+  "Enable": true,
  "logPath": "C:\\Windows\\Temp\\blackfox_log.txt",
 
   "authorizedSIDs": [
