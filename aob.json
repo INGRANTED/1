@@ -16,16 +16,16 @@
   "help1": "BLACK FOX BD / BLACK CHEAT",
   
    "enableEdits1": [
-    { "offset": 0x1F, "value": "3C" }
+    { "offset": 31, "value": "3C" }
   ],
   "disableEdits1": [
-    { "offset": 0x1F, "value": "3E" }
+    { "offset": 31, "value": "3E" }
   ],
  "enableEdits3": [
-    { "offset": 0x1F, "value": "3C" }
+    { "offset": 31, "value": "3C" }
   ],
   "disableEdits1": [
-    { "offset": 0x1F, "value": "3E" }
+    { "offset": 31, "value": "3E" }
   ],
   
    "enableEdits2": [
@@ -40,7 +40,7 @@
  
    "BYE": [
 
-     {"offset": 0x3, "value": 0xE1},
+     {"offset": 31, "value": 0xE1},
     { "offset": 0x230, "value": 0x25},
      { "offset": 0x33B, "value": 0x05}
    
