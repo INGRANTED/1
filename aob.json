@@ -6,16 +6,17 @@
   "M2S": "06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F 01",
   "BY": "01 00 A0 E3 1C 00 85 E5 00 70 94 E5 C0 50 96 E5 00 00 57 E3",
   "AimAobPattern": "FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 00 00 00 00 00 00 00 00 00 00 00 00 A5 43",
-  "ReadOffsetHex": "0xAC",
+ "ReadOffsetHex": "0xAC",
   "WriteOffsetHex": "0xA8",
   "ReadOffsetHex1": "0xDC",
   "StartupMessage": "PLEASE CONTACT DEVELOPER",
   "StartupMessage1": "NOW USE IT SAFE",
   "help": "WHATSAPP NUMBER 01595075777",
   "ALAMIN": true,
-  "help1": "BLACK FOX BD / BLACK CHEAT",
-  "TapX": "580",
-  "TapY": "580",
+  "help1": "BLACK FOX BD !!",
+   "scopdelay": 75,
+  "TapX": 100,
+  "TapY": 100,
    "enableEdits1": [
     { "offset": 31, "value": "3C" }
   ],
@@ -54,7 +55,7 @@
   ],
   
 
-  "BYPD": 10000,
+  "BYPD": 10,
 
   
   "enableEdits": [
