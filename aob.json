@@ -40,15 +40,15 @@
  
    "BYE": [
 
-     {"offset": 31, "value": 0xE1},
-    { "offset": 0x230, "value": 0x25},
-     { "offset": 0x33B, "value": 0x05}
+     {"offset": 3, "value": "E1"},
+    { "offset": 560, "value": "25"},
+     { "offset": 827, "value": "05"}
    
   ],
   "BYD": [
-    {"offset": 0x3, "value": 0xE3},
-    { "offset": 0x230, "value": 0x54},
-     { "offset": 0x33B, "value": 0xE5}
+    {"offset": 3, "value": "E3"},
+    { "offset": 560, "value": "54"},
+     { "offset": 827, "value": "E5"}
    
   ],
   
