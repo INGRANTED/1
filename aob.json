@@ -58,11 +58,11 @@
   
   "enableEdits": [
    
-    { "offset": 0x07, "value": 0x3F }
+    { "offset": 7, "value": "3F" }
     
   ],
   "disableEdits": [
-    { "offset": 0x07, "value": 0x00 }
+    { "offset": 7, "value": "00" }
    
   ],
    "authorizedHWIDs": [
