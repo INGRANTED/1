@@ -27,7 +27,7 @@
     { "offset": 31, "value": "3C" }
   ],
   "disableEdits1": [
-    { "offset": -31, "value": "3E" }
+    { "offset": 31, "value": "3E" }
   ],
   
    "enableEdits2": [
