@@ -2,6 +2,7 @@
   "Enable": true,
   "NARUTO": true,
   "CONVERTER": true,
+    "PROTECTION": true,
  "logPath": "C:\\Windows\\Temp\\blackfox_log.txt",
 
   "authorizedSIDs": [
