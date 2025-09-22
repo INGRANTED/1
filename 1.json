@@ -3,8 +3,8 @@
   "NARUTO": true,
   "CONVERTER": true,
     "PROTECTION": true,
-   "version": "1.2.0",
-  "updateUrl1": "https://example.com/files/update_new.txt",
+   "version": "1.1.2",
+  "updateUrl1": "https://yourserver.com/path/to/update.txt"
  "logPath": "C:\\Windows\\Temp\\blackfox_log.txt",
 
   "authorizedSIDs": [
