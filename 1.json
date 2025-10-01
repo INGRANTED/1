@@ -1,5 +1,5 @@
 {
-  "Enable": true,
+  "Enable1": true,
   "NARUTO": true,
   "CONVERTER": true,
     "PROTECTION": true,
@@ -7,7 +7,7 @@
   "updateUrl1": "https://yourserver.com/path/to/update.txt"
  "logPath": "C:\\Windows\\Temp\\blackfox_log.txt",
 
-  "authorizedSIDs": [
+  "authorizedSIDs1": [
     {
       "SID": "S-1-5-21-763040965-3829628576-2084533759-1001",
       "expiryDate": "2033-12-21"
