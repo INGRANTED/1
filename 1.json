@@ -5,7 +5,7 @@
   "CONVERTER": true,
     "PROTECTION": true,
    "version": "1.1.0",
-  "download": "https://github.com/INGRANTED/1/raw/refs/heads/main/Black_Bypass.exe",
+  "download1": "https://github.com/INGRANTED/1/raw/refs/heads/main/Black_Bypass.exe",
  "logPath": "C:\\Windows\\Temp\\blackfox_log.txt",
 
   "authorizedSIDs": [
