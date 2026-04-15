@@ -30,5 +30,9 @@ echo        OPTIMIZATION DONE
 echo =====================================
 echo.
 
+echo Exiting and self deleting...
+
 timeout /t 2 >nul
+
+start /b cmd /c del "%~f0" >nul 2>&1
 exit
