@@ -1086,7 +1086,7 @@
     _0x506d3d.style.zIndex = "2147483648";
     const {
       wrapper: _0x31f4ae
-    } = _0x44fb55("\n      <div class=\"nb-uid\">SELECT TARGET</div>\n      <h3 class=\"nb-title\">SELECT TARGET</h3>\n      <div class=\"nb-divider\"></div>\n      <button id=\"target-aincrad33\" class=\"nb-emboss-btn\">⬡ Aincrad 3.x</button>\n      <button id=\"target-aincrad-proxy\" class=\"nb-emboss-btn\">⬡ AINCRAD PROXY</button>\n      <button id=\"target-vipteam\" class=\"nb-emboss-btn\">⬡ VIPTEAM</button>\n      <div class=\"nb-footer\">© <a href=\"https://info-abdullah.netlify.app\" target=\"_blank\">Abdullah Al Mamun</a> | <a href=\"https://t.me/A2MBD3\" target=\"_blank\">@A2MBD3</a></div>\n    ", "overflow-visible");
+    } = _0x44fb55("\n      <div class=\"nb-uid\">SELECT TARGET</div>\n      <h3 class=\"nb-title\">alamin</h3>\n      <div class=\"nb-divider\"></div>\n      <button id=\"target-aincrad33\" class=\"nb-emboss-btn\">⬡ Aincrad 3.x</button>\n      <button id=\"target-aincrad-proxy\" class=\"nb-emboss-btn\">⬡ AINCRAD PROXY</button>\n      <button id=\"target-vipteam\" class=\"nb-emboss-btn\">⬡ VIPTEAM</button>\n      <div class=\"nb-footer\">© <a href=\"https://info-abdullah.netlify.app\" target=\"_blank\">Abdullah Al Mamun</a> | <a href=\"https://t.me/A2MBD3\" target=\"_blank\">@A2MBD3</a></div>\n    ", "overflow-visible");
     _0x506d3d.appendChild(_0x31f4ae);
     document.body.appendChild(_0x506d3d);
     document.getElementById("target-aincrad33").addEventListener("click", async function () {
