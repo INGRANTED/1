@@ -110,7 +110,7 @@
   let _0x3edb97 = {
     status: 1,
     musicListUrl: "https://raw.githubusercontent.com/A2MBD3/Aincrad/main/assets/music.txt",
-    apiBaseUrl: "https://loll.amin89310.workers.dev",
+    apiBaseUrl: "https://lol.amin89310.workers.dev",
     apiKey: "abdullah",
     totpSecret: "6ZQ4X3VPEK5XG2Q",
     userDataApiUrl: "https://nebula-bot-8afg.onrender.com",
